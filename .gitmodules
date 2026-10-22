@@ -1,0 +1,8 @@
+[submodule "neorv32"]
+	path = neorv32
+	url = git@github.com:Linty-Services/neorv32.git
+	branch = multi-root-workspace
+[submodule "linty-hdl-designer-sample"]
+	path = linty-hdl-designer-sample
+	url = git@github.com:Linty-Services/linty-hdl-designer-sample.git
+	branch = multi-root-workspace

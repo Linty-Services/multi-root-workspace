@@ -1,0 +1,22 @@
+{
+  "folders": [
+    {
+      "name": "multi-root-workspace",
+      "path": "."
+    },
+    {
+      "name": "neorv32",
+      "path": "neorv32"
+    },
+    {
+      "name": "linty-hdl-designer-sample",
+      "path": "linty-hdl-designer-sample"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "neorv32": true,
+      "linty-hdl-designer-sample": true
+    }
+  }
+}

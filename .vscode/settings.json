@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "https-demo-linty-services-com",
+        "projectKey": "multi-root-workspace"
+    }
+}
